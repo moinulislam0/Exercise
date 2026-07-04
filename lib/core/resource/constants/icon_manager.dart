@@ -1,0 +1,33 @@
+class IconManager {
+  static String baseUrl = 'assets/icons';
+  static String arrowLeft = '$baseUrl/arrow_left.png';
+  static String arrowRight = '$baseUrl/arrow-right.png';
+  static String female = '$baseUrl/female_icon.png';
+  static  String male = '$baseUrl/male_icon.png';
+    static  String facebook= '$baseUrl/facebook.png';
+  static  String google= '$baseUrl/google.png';
+    static String logout= '$baseUrl/logout.png';
+  static  String security= '$baseUrl/security.png';
+  static  String setting= '$baseUrl/settings.png';
+  static String subscriptionPlan= '$baseUrl/subscription_plan.png';
+  static String playButton= '$baseUrl/play.png';
+  static String clock= '$baseUrl/stopwatch.png';
+  static String videoICon= '$baseUrl/video_icon.png';
+  static String bookMark= '$baseUrl/bookmark-plus.png';
+  static String playCircle= '$baseUrl/play-circle.png';
+  static String checkIcon= '$baseUrl/check_icon.png';
+  static String favourite= '$baseUrl/favourite.png';
+  static String profile= '$baseUrl/profile.png';
+  static String home= '$baseUrl/home.png';
+  static String playList= '$baseUrl/playList.png';
+  static String filter = '$baseUrl/filter.png';
+  static String upIcon = '$baseUrl/up_icon.png';
+  static String bookMarkFill = '$baseUrl/bookmark-plus (1).png';
+  static String edit = '$baseUrl/edit.png';
+  static String subscriptionIcon = '$baseUrl/subscription_icon.png';
+  static String checkMark = '$baseUrl/checkMark.png';
+  static String subtractIcon = '$baseUrl/Subtract.png';
+  static String heightIcon = '$baseUrl/heightIcon-removebg-preview.png';
+  static String notificationIcon = '$baseUrl/notificationIcon.png';
+  static String camera = '$baseUrl/camera.png';
+}
